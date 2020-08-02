@@ -1,0 +1,18 @@
+C:\Users\micha\OneDrive\שולחן העבודה\Full Stack .NET\First Project\firstProject1\firstProject1\obj\Debug\firstProject1.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\שולחן העבודה\Full Stack .NET\First Project\firstProject1\firstProject1\bin\firstProject1.dll.config
+C:\Users\micha\OneDrive\שולחן העבודה\Full Stack .NET\First Project\firstProject1\firstProject1\bin\firstProject1.dll
+C:\Users\micha\OneDrive\שולחן העבודה\Full Stack .NET\First Project\firstProject1\firstProject1\bin\firstProject1.pdb
+C:\Users\micha\OneDrive\שולחן העבודה\Full Stack .NET\First Project\firstProject1\firstProject1\obj\Debug\firstProject1.dll
+C:\Users\micha\OneDrive\שולחן העבודה\Full Stack .NET\First Project\firstProject1\firstProject1\obj\Debug\firstProject1.pdb
+C:\Users\micha\OneDrive\שולחן העבודה\Full Stack .NET\Projects\First Project\firstProject1\firstProject1\bin\firstProject1.dll.config
+C:\Users\micha\OneDrive\שולחן העבודה\Full Stack .NET\Projects\First Project\firstProject1\firstProject1\bin\firstProject1.dll
+C:\Users\micha\OneDrive\שולחן העבודה\Full Stack .NET\Projects\First Project\firstProject1\firstProject1\bin\firstProject1.pdb
+C:\Users\micha\OneDrive\שולחן העבודה\Full Stack .NET\Projects\First Project\firstProject1\firstProject1\obj\Debug\firstProject1.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\שולחן העבודה\Full Stack .NET\Projects\First Project\firstProject1\firstProject1\obj\Debug\firstProject1.dll
+C:\Users\micha\OneDrive\שולחן העבודה\Full Stack .NET\Projects\First Project\firstProject1\firstProject1\obj\Debug\firstProject1.pdb
+C:\Projects\First Project\firstProject1\firstProject1\bin\firstProject1.dll.config
+C:\Projects\First Project\firstProject1\firstProject1\bin\firstProject1.dll
+C:\Projects\First Project\firstProject1\firstProject1\bin\firstProject1.pdb
+C:\Projects\First Project\firstProject1\firstProject1\obj\Debug\firstProject1.csprojAssemblyReference.cache
+C:\Projects\First Project\firstProject1\firstProject1\obj\Debug\firstProject1.dll
+C:\Projects\First Project\firstProject1\firstProject1\obj\Debug\firstProject1.pdb
